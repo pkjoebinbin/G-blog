@@ -3,11 +3,6 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import ElementUi from 'element-ui'
-import 'element-ui/lib/theme-chalk/index.css'
-import anzhuang from './components/tabs/install'
-Vue.use(ElementUi)
-Vue.use(anzhuang)
 
 Vue.config.productionTip = false
 
