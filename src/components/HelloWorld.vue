@@ -8,7 +8,6 @@
           href="https://vuejs.org"
           target="_blank"
         >
-          Core Docsasdfa123123
         </a>
       </li>
       <li>
