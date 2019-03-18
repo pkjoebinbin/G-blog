@@ -1,0 +1,25 @@
+From c716dcb06bd808848d5902e9ad6e5062a26c15c9 Mon Sep 17 00:00:00 2001
+From: "PC-20120726WATB\\Administrator" <403060825@qq.com>
+Date: Mon, 18 Mar 2019 21:28:07 +0800
+Subject: [PATCH] Revert "Revert "11""
+
+This reverts commit 26f95c7598f8a2b0b422bd55e486aac6037dbb63.
+---
+ src/components/HelloWorld.vue | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/src/components/HelloWorld.vue b/src/components/HelloWorld.vue
+index 75ad1f7..5af5c67 100644
+--- a/src/components/HelloWorld.vue
++++ b/src/components/HelloWorld.vue
+@@ -108,6 +108,6 @@ li {
+   margin: 0 10px;
+ }
+ a {
+-  color: #42b983;
++  color: #333;
+ }
+ </style>
+-- 
+2.16.0.windows.2
+
